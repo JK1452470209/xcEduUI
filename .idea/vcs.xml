@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/xc-ui-pc-leanring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xc-ui-pc-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xc-ui-pc-static-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xc-ui-pc-sysmanage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xc-ui-pc-teach" vcs="Git" />
+  </component>
+</project>
